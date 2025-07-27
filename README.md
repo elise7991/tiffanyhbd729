@@ -53,7 +53,7 @@
 
 
 <p style="font-size:50px;text-align:center;color:white;"><span style='font-size:50px;'>&#128073;</span>How to use this Cheque<span style='font-size:50px;'>&#128072;</span></p>
-<p style="width: 1000px; margin: 0 auto; text-align: left;font-size:30px;color:white">
+<p style="width: 900px; margin: 0 auto; text-align: left;font-size:30px;color:white">
   Step 1 : Fill out the Date<br>
 <br>
   Step 2 : Write down what you’d like to redeem<br>
