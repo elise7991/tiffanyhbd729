@@ -1,1 +1,71 @@
-# tiffanyhbd729
+<!DOCTYPE html>
+<html>
+<title>HBD</title>
+<body style="background-color:turquoise;">
+<p style="font-size:100px;text-align:center;color:lemonchiffon;"><b>Happy Birthday!!!</b></p>
+<p style="font-size:100px;text-align:center;color:lemonchiffon;"><b>To My Girl<span style='font-size:100px;'>&#128525;</span></b></p>
+
+<p style="font-size:20px;text-align:center;color:black;">The image below is a link, <strong>click it</strong>!</p>
+<p style="text-align: center;">
+<a href="https://youtu.be/lvLSLTuqpMY" target="blank"><img src="https://cdn.prod.website-files.com/619b7ac711243f15ea484033/66bcd2039f0b0a2aa1502fa2_66bcd18e7cc939bf85a8f47f_5.png" alt="three rats" title="check this out">
+</a>
+
+
+
+<p style="font-size:90px;text-align:center;color:lemonchiffon;"><span style='font-size:90px;'>&#x1F9E1 &#x1F9E1;</span>I Love My BB<span style='font-size:90px;'>&#x1F9E1 &#x1F9E1;</span></p>
+
+<p style="font-size:60px;text-align:center;color:lemonchiffon;">Please scan the Qr code</p>
+<p style="font-size:60px;text-align:center;color:lemonchiffon;">to access your Birthday card</p>
+
+<p style="text-align: center;">
+<img src="https://i.imgur.com/JzRTrgT.png" alt="QR Code" title="scan me">
+
+<p style="font-size:60px;text-align:center;color:lemonchiffon;">You want gift? then click <a href="https://imgur.com/a/lDJ5dWT" target="blank">here</a></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<p style="font-size:50px;text-align:center;color:white;"><span style='font-size:50px;'>&#128073;</span>How to use this Cheque<span style='font-size:50px;'>&#128072;</span></p>
+<p style="width: 750px; margin: 0 auto; text-align: left;font-size:30px;color:white">
+  Step 1 : Fill out the Date<br>
+<br>
+  Step 2 : Write down what you’d like to redeem<br>
+<br>
+  Step 3 : Hand this back to me when you're ready to cash it in<br>
+<br>
+  Note: One-time use only<span style='font-size:20px;'>&#128527;</span>
+</p>
+<br>
+<br>
+<br>
+
+</body>
+</html>
+
