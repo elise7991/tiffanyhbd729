@@ -12,7 +12,7 @@
 
 
 
-<p style="font-size:90px;text-align:center;color:lemonchiffon;"><span style='font-size:90px;'>&#x1F9E1;&#x1F9E1;</span>I Love My BB<span style='font-size:90px;'>&#x1F9E1;&#x1F9E1;</span></p>
+<p style="font-size:90px;text-align:center;color:lemonchiffon;"><span style='font-size:80px;'>&#x1F9E1;&#x1F9E1;</span>I Love My BB<span style='font-size:80px;'>&#x1F9E1;&#x1F9E1;</span></p>
 
 <p style="font-size:60px;text-align:center;color:lemonchiffon;">Please scan the Qr code</p>
 <p style="font-size:60px;text-align:center;color:lemonchiffon;">to access your Birthday card</p>
